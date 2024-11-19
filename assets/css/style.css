@@ -253,4 +253,5 @@ body.page-template-page-fullsingle-me h1 {
   transition: 0.1s;
   opacity: 0.7;
 }
-h1 {color:rosybrown; }
+h1 {color:rosybrown; 
+background-color:brown}
